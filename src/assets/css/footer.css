@@ -1,0 +1,11 @@
+.footer{
+  background-color: black;
+  color: white;
+  height: 50vh;
+  width: 100%;
+}
+
+.lists-wrapper{
+  display: flex;
+  flex-direction: row;
+}
