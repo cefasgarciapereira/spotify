@@ -16,26 +16,3 @@
   font-size: 1.2em;
   font-weight: 300;
 }
-
-.round-button{
-  width: 25em;
-  height: 3.5em;
-  border-radius: 100px;
-  border: none;
-  background-color:rgb(61, 190, 96);
-  color: white;
-  font-weight: bold;
-  text-transform: uppercase;
-}
-
-.round-button:hover{
-  background-color: #3DD760;
-  cursor: pointer;
-}
-
-.round-button:active{
-  background-color:rgb(61, 150, 56);
-}
-button:focus {
-  outline:0;
-}

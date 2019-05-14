@@ -1,0 +1,22 @@
+.green-button{
+  width: 25em;
+  height: 3.5em;
+  border-radius: 100px;
+  border: none;
+  background-color:rgb(61, 190, 96);
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.green-button:hover{
+  background-color: #3DD760;
+  cursor: pointer;
+}
+
+.green-button:active{
+  background-color:rgb(61, 150, 56);
+}
+button:focus {
+  outline:0;
+}

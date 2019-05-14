@@ -5,11 +5,12 @@
 
 .item {
   margin-left: 1em;
-  font-size: 3em;
-
+  font-size: 2em;
+  list-style: none;
+  margin-bottom: 2em;
 }
 
 .item:hover{
-  color: green;
+  color: rgb(61, 190, 96);
   cursor: pointer;
 }

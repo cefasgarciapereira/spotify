@@ -7,10 +7,18 @@
   color: #999;
   text-transform: uppercase;
   font-size: .8em;
+  list-style: none;
   font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.list-link{
+  list-style: none;
+  font-weight: bold;
+  margin-bottom: 2em;
 }
 
 .list-link:hover{
   cursor: pointer;
-  color: green;
+  color: rgb(61, 190, 96);
 }

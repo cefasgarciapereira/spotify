@@ -1,7 +1,7 @@
 .header{
   background-color: rgba(0,0,0,0.6);
-  position: relative;
   width: 100%;
+  position: fixed;
 }
 
 .navbar{
@@ -12,12 +12,12 @@
   justify-content: center;
   margin: 0;
   font-weight: bold;
+  height: 5em;
 }
 
-.logo {
-  width: 20%;
-  vertical-align: middle;
-  align-self: center;
+.brand {
+  width: 8em;
+  margin-right: 30em;
 }
 
 .link {
