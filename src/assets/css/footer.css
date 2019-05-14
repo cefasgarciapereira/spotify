@@ -1,11 +1,26 @@
 .footer{
   background-color: black;
   color: white;
-  height: 50vh;
+  height: 65vh;
   width: 100%;
-}
-
-.lists-wrapper{
   display: flex;
   flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 0 50px 0;
+}
+
+.logo{
+  width: 200px;
+  align-self: flex-start;
+}
+
+li{
+  list-style: none;
+  text-transform: capitalize;
+  padding: 2em 0 0 0;
+}
+
+.social-media{
+  float: right;
 }

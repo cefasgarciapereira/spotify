@@ -1,0 +1,16 @@
+.list-wrapper{
+  display: flex;
+  flex-direction: row;
+}
+
+.list-title{
+  color: #999;
+  text-transform: uppercase;
+  font-size: .8em;
+  font-weight: bold;
+}
+
+.list-link:hover{
+  cursor: pointer;
+  color: green;
+}
