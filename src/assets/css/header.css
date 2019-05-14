@@ -32,6 +32,10 @@
   text-decoration: none;
 }
 
+.divider{
+  color: rgba(255,255,255,.7);
+}
+
 .login {
   color: rgba(255,255,255,.7);
   text-transform: capitalize;

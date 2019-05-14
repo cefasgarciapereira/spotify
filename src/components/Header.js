@@ -13,6 +13,7 @@ export default class Header extends React.Component {
                 <li><a className="link" href="">  Premium </a></li>
                 <li><a className="link" href="">  Ajuda   </a></li>
                 <li><a className="link" href="">  Baixar   </a></li>
+                <li  className="divider">|</li>
                 <li><a className="login"href="">  Inscrever-se   </a></li>
                 <li><a className="login"href="">  Entrar   </a></li>
 
