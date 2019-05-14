@@ -32,3 +32,10 @@
   background-color: #3DD760;
   cursor: pointer;
 }
+
+.round-button:active{
+  background-color:rgb(61, 150, 56);
+}
+button:focus {
+  outline:0;
+}
