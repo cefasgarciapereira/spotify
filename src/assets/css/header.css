@@ -1,0 +1,53 @@
+.header{
+  background-color: rgba(0,0,0,0.6);
+  position: relative;
+  width: 100%;
+}
+
+.navbar{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  justify-content: center;
+  margin: 0;
+  font-weight: bold;
+}
+
+.logo {
+  width: 20%;
+  vertical-align: middle;
+  align-self: center;
+}
+
+.link {
+  color: white;
+  text-transform: capitalize;
+  display: inline;
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  margin: 10px;
+  text-decoration: none;
+}
+
+.login {
+  color: rgba(255,255,255,.7);
+  text-transform: capitalize;
+  display: inline;
+  float: right;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  color: #3DD760;
+}

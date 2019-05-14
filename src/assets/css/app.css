@@ -1,0 +1,22 @@
+body,html{
+  height: 100%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+
+  background: -webkit-linear-gradient(110deg, #F7C447 60%, #F27378 60%);
+  background: -o-linear-gradient(110deg, #F7C447 60%, #F27378 60%);
+  background: -moz-linear-gradient(110deg, #F7C447 60%, #F27378 60%);
+  background: linear-gradient(110deg, #F7C447 60%, #F27378 60%);
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.App{
+  background-image: url("/public/img/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
