@@ -1,3 +1,9 @@
+# Spotify
+This project was done to study React and was one my first projects done in React.js.
+
+[spotify]('./public/thumb.gif')
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
